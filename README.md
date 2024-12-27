@@ -1,2 +1,3 @@
 # google_analytics
-MySQL based project
+SQL project
+Created using Google Collab Notebook
